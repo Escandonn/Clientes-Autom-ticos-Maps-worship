@@ -1,0 +1,450 @@
+[
+    {
+        "nombre": "Tiendas D1 Palobonito",
+        "link": "https://www.google.com/maps/place/Tiendas+D1+Palobonito/data=!4m7!3m6!1s0x8e39c5c0e61db551:0x959407e7f4ce62fd!8m2!3d4.0880892!4d-76.1993379!16s%2Fg%2F11c1ncprgj!19sChIJUbUd5sDFOY4R_WLO9OcHlJU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Mattelsa Tuluá | Tienda de Ropa",
+        "link": "https://www.google.com/maps/place/Mattelsa+Tulu%C3%A1+%7C+Tienda+de+Ropa/data=!4m7!3m6!1s0x8e39c5c8bbed5ed1:0xc9de0091b1c23a98!8m2!3d4.0828902!4d-76.1966365!16s%2Fg%2F1q5h1cn94!19sChIJ0V7tu8jFOY4RmDrCsZEA3sk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas Ara",
+        "link": "https://www.google.com/maps/place/Tiendas+Ara/data=!4m7!3m6!1s0x8e39c5dae51142db:0xef9ba3bcee072b67!8m2!3d4.0836635!4d-76.1881508!16s%2Fg%2F11c1xnlkl3!19sChIJ20IR5drFOY4RZysH7ryjm-8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas Ara",
+        "link": "https://www.google.com/maps/place/Tiendas+Ara/data=!4m7!3m6!1s0x8e39c5c783626c2f:0x6320e9539a5f6c18!8m2!3d4.0841024!4d-76.201042!16s%2Fg%2F11cn5rhs9p!19sChIJL2xig8fFOY4RGGxfmlPpIGM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas Ara",
+        "link": "https://www.google.com/maps/place/Tiendas+Ara/data=!4m7!3m6!1s0x8e39c5be21edd33b:0x966e0cdb010bafd3!8m2!3d4.0914045!4d-76.2061192!16s%2Fg%2F11cmsvrygg!19sChIJO9PtIb7FOY4R068LAdsMbpY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas ARA El Lago",
+        "link": "https://www.google.com/maps/place/Tiendas+ARA+El+Lago/data=!4m7!3m6!1s0x8e39c5006eeb5f5b:0x67aa195d182d79b!8m2!3d4.0775267!4d-76.2023515!16s%2Fg%2F11lchzgy6_!19sChIJW1_rbgDFOY4Rm9eC0ZWhegY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas Ara barrio popular",
+        "link": "https://www.google.com/maps/place/Tiendas+Ara+barrio+popular/data=!4m7!3m6!1s0x8e39c5c2e692e3b3:0xa76cb1b7c77a698a!8m2!3d4.0894955!4d-76.1916326!16s%2Fg%2F11cmbpg0pm!19sChIJs-OS5sLFOY4Riml6x7exbKc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda \"Godoy\"",
+        "link": "https://www.google.com/maps/place/Tienda+%22Godoy%22/data=!4m7!3m6!1s0x8e39c5b799b7676b:0x3fd0ebe8ff458a76!8m2!3d4.0807068!4d-76.2038377!16s%2Fg%2F11g71cbh0_!19sChIJa2e3mbfFOY4RdopF_-jr0D8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas D1 Franciscanos",
+        "link": "https://www.google.com/maps/place/Tiendas+D1+Franciscanos/data=!4m7!3m6!1s0x8e39c5c451d004f9:0xc78fd2d662f11330!8m2!3d4.0842698!4d-76.1936168!16s%2Fg%2F11trxfksn2!19sChIJ-QTQUcTFOY4RMBPxYtbSj8c?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Éxito Tulua",
+        "link": "https://www.google.com/maps/place/%C3%89xito+Tulua/data=!4m7!3m6!1s0x8e39c5b854f9119f:0x3f9a7aac4c1bc60d!8m2!3d4.0837596!4d-76.2041396!16s%2Fg%2F1vm_yyfr!19sChIJnxH5VLjFOY4RDcYbTKx6mj8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas D1 Salesianos",
+        "link": "https://www.google.com/maps/place/Tiendas+D1+Salesianos/data=!4m7!3m6!1s0x8e39c5b04590fd67:0x2185b92ea405856a!8m2!3d4.0794226!4d-76.1968512!16s%2Fg%2F11ss57clxt!19sChIJZ_2QRbDFOY4RaoUFpC65hSE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Escobar 242",
+        "link": "https://www.google.com/maps/place/Tienda+Escobar+242/data=!4m7!3m6!1s0x8e39c532a9e9eaf3:0x178851766aa04a4f!8m2!3d4.0911451!4d-76.2142523!16s%2Fg%2F11t4xv4m7w!19sChIJ8-rpqTLFOY4RT0qganZRiBc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas D1 Farfán",
+        "link": "https://www.google.com/maps/place/Tiendas+D1+Farf%C3%A1n/data=!4m7!3m6!1s0x8e39c543396dbbb1:0xd928f5eea0546edc!8m2!3d4.0946245!4d-76.2134131!16s%2Fg%2F11kqlyqvq2!19sChIJsbttOUPFOY4R3G5UoO71KNk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TGM - Tienda de las grandes marcas",
+        "link": "https://www.google.com/maps/place/TGM+-+Tienda+de+las+grandes+marcas/data=!4m7!3m6!1s0x8e39c56d654eb851:0x8af79b5c84a6b506!8m2!3d4.0868403!4d-76.1958396!16s%2Fg%2F11h4czf_hy!19sChIJUbhOZW3FOY4RBrWmhFyb94o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Nueva",
+        "link": "https://www.google.com/maps/place/Tienda+Nueva/data=!4m7!3m6!1s0x8e39c593b4425ceb:0x29d3e6467191b795!8m2!3d4.0990936!4d-76.2056259!16s%2Fg%2F11fy567yqs!19sChIJ61xCtJPFOY4RlbeRcUbm0yk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda La 15",
+        "link": "https://www.google.com/maps/place/Tienda+La+15/data=!4m7!3m6!1s0x8e39c50c27e8828f:0xd1a4ff6ccb1ce175!8m2!3d4.0875535!4d-76.2065772!16s%2Fg%2F11g0csfcp5!19sChIJj4LoJwzFOY4RdeEcy2z_pNE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDAS D-1 GALERÍA TULUÁ",
+        "link": "https://www.google.com/maps/place/TIENDAS+D-1+GALER%C3%8DA+TULU%C3%81/data=!4m7!3m6!1s0x8e39c5e30608f0d9:0x4ad4b70e14855aa3!8m2!3d4.0840277!4d-76.2006663!16s%2Fg%2F11vh_8q0tt!19sChIJ2fAIBuPFOY4Ro1qFFA631Eo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Ara",
+        "link": "https://www.google.com/maps/place/Tienda+Ara/data=!4m7!3m6!1s0x8e39c5c973d867d5:0x7ec23d9616030053!8m2!3d4.0745964!4d-76.1988919!16s%2Fg%2F1vbnqg77!19sChIJ1WfYc8nFOY4RUwADFpY9wn4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas D1 Villa Campestre",
+        "link": "https://www.google.com/maps/place/Tiendas+D1+Villa+Campestre/data=!4m7!3m6!1s0x8e39c500090c383b:0xfe9e12a6bc1b7e80!8m2!3d4.0729548!4d-76.1882379!16s%2Fg%2F11yb_dzrs3!19sChIJOzgMCQDFOY4RgH4bvKYSnv4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda d1 principe",
+        "link": "https://www.google.com/maps/place/Tienda+d1+principe/data=!4m7!3m6!1s0x8e39c593c3bd8ee1:0xf1e1d336cd0347ca!8m2!3d4.0740099!4d-76.199065!16s%2Fg%2F11ss6c9cj6!19sChIJ4Y69w5PFOY4RykcDzTbT4fE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "La Súper Tienda",
+        "link": "https://www.google.com/maps/place/La+S%C3%BAper+Tienda/data=!4m7!3m6!1s0x8e39c568e0f03797:0xc7b523b97a0c5226!8m2!3d4.0689613!4d-76.202802!16s%2Fg%2F11n606szt7!19sChIJlzfw4GjFOY4RJlIMerkjtcc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda (Don Manuel)",
+        "link": "https://www.google.com/maps/place/Tienda+%28Don+Manuel%29/data=!4m7!3m6!1s0x8e39c5ca0067a421:0x7b2fe583a64926ca!8m2!3d4.0766989!4d-76.2015007!16s%2Fg%2F11dfl0f7jn!19sChIJIaRnAMrFOY4RyiZJpoPlL3s?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda La Ventanita",
+        "link": "https://www.google.com/maps/place/Tienda+La+Ventanita/data=!4m7!3m6!1s0x8e39c549511f2b47:0x8ff9f5952df08f06!8m2!3d4.0859409!4d-76.1932664!16s%2Fg%2F11ff5jyyt1!19sChIJRysfUUnFOY4RBo_wLZX1-Y8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Supercentro Tuluá",
+        "link": "https://www.google.com/maps/place/Supercentro+Tulu%C3%A1/data=!4m7!3m6!1s0x8e39c5cd61dcf83d:0x1ca2bf75289f5a96!8m2!3d4.0727795!4d-76.1900196!16s%2Fg%2F1hf49mjym!19sChIJPfjcYc3FOY4RllqfKHW_ohw?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tu Tienda Original - Victoria's Secret - Pink - GAP - Ropa Americana - Tulua",
+        "link": "https://www.google.com/maps/place/Tu+Tienda+Original+-+Victoria%27s+Secret+-+Pink+-+GAP+-+Ropa+Americana+-+Tulua/data=!4m7!3m6!1s0x8e39c51e41d15c3b:0x46e81f5c7462efb6!8m2!3d4.0819499!4d-76.1974227!16s%2Fg%2F11f61sxsyv!19sChIJO1zRQR7FOY4Rtu9idFwf6EY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Centro Comercial La Herradura",
+        "link": "https://www.google.com/maps/place/Centro+Comercial+La+Herradura/data=!4m7!3m6!1s0x8e39c5b85af4f5e3:0xba77e05107bef5c0!8m2!3d4.0830501!4d-76.2036881!16s%2Fg%2F1hf26g4w3!19sChIJ4_X0WrjFOY4RwPW-B1Hgd7o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Alex",
+        "link": "https://www.google.com/maps/place/Tienda+Alex/data=!4m7!3m6!1s0x8e39c5484430e48d:0x80a1ff3df3c4727b!8m2!3d4.0967042!4d-76.2122741!16s%2Fg%2F11h4b4qxc2!19sChIJjeQwREjFOY4Re3LE8z3_oYA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda el oso",
+        "link": "https://www.google.com/maps/place/Tienda+el+oso/data=!4m7!3m6!1s0x8e39c500539a8d81:0xfa3227a983e459f1!8m2!3d4.0900409!4d-76.2088352!16s%2Fg%2F11lngms1s8!19sChIJgY2aUwDFOY4R8Vnkg6knMvo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Vo5",
+        "link": "https://www.google.com/maps/place/Tienda+Vo5/data=!4m7!3m6!1s0x8e39c5381f278e63:0xb77818c8e0be1573!8m2!3d4.0833052!4d-76.1972775!16s%2Fg%2F11qn3jgsg9!19sChIJY44nHzjFOY4RcxW-4MgYeLc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA DE REGALOS O' SORPRESA - Detalles Tulua - Peluches - Entrega de Regalos - Kuromi - Hello Kitty",
+        "link": "https://www.google.com/maps/place/TIENDA+DE+REGALOS+O%27+SORPRESA+-+Detalles+Tulua+-+Peluches+-+Entrega+de+Regalos+-+Kuromi+-+Hello+Kitty/data=!4m7!3m6!1s0x8e39c52b4128d5af:0x12805bcc3c7a13a1!8m2!3d4.0872069!4d-76.1999285!16s%2Fg%2F11l3645p93!19sChIJr9UoQSvFOY4RoRN6PMxbgBI?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA DE VIDEOJUEGOS MEGA PLAY - Consolas Play Station - Xbox - Nintendo - Controles - Accesorios de Vídeo Juegos",
+        "link": "https://www.google.com/maps/place/TIENDA+DE+VIDEOJUEGOS+MEGA+PLAY+-+Consolas+Play+Station+-+Xbox+-+Nintendo+-+Controles+-+Accesorios+de+V%C3%ADdeo+Juegos/data=!4m7!3m6!1s0x8e39c5c6341e4d5f:0x1e57914d0c1b0108!8m2!3d4.0826217!4d-76.1982178!16s%2Fg%2F11c7wf1381!19sChIJX00eNMbFOY4RCAEbDE2RVx4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda de Ropa Morena",
+        "link": "https://www.google.com/maps/place/Tienda+de+Ropa+Morena/data=!4m7!3m6!1s0x8e39c5d9a5089993:0xb2ab617e955506fc!8m2!3d4.0898682!4d-76.1915268!16s%2Fg%2F11qb3x17kz!19sChIJk5kIpdnFOY4R_AZVlX5hq7I?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda JuanPa RH",
+        "link": "https://www.google.com/maps/place/Tienda+JuanPa+RH/data=!4m7!3m6!1s0x8e39c52932576857:0xcbe62d8d9e2a8493!8m2!3d4.0800546!4d-76.1877625!16s%2Fg%2F11g_zl8v9n!19sChIJV2hXMinFOY4Rk4Qqno0t5ss?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA BLUE SKY",
+        "link": "https://www.google.com/maps/place/TIENDA+BLUE+SKY/data=!4m7!3m6!1s0x8e39c5120e391705:0xf9624ef0e9a90751!8m2!3d4.095151!4d-76.2109649!16s%2Fg%2F11q96d0_wy!19sChIJBRc5DhLFOY4RUQep6fBOYvk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Lorens.tienda",
+        "link": "https://www.google.com/maps/place/Lorens.tienda/data=!4m7!3m6!1s0x8e39c434d32df69d:0x25e1b10457867500!8m2!3d4.0716651!4d-76.1981648!16s%2Fg%2F11gf61j72h!19sChIJnfYt0zTEOY4RAHWGVwSx4SU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tiendas Bata",
+        "link": "https://www.google.com/maps/place/Tiendas+Bata/data=!4m7!3m6!1s0x8e39c5c6fa325283:0xf8f0589fbb00a9e8!8m2!3d4.0845304!4d-76.1980793!16s%2Fg%2F11c74z6h80!19sChIJg1Iy-sbFOY4R6KkAu59Y8Pg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "EN FORMA TIENDA DEPORTIVA - Equipos Deportivos Tulua - Crossfit - Fitness - Maquinas de Musculación - Patines - Caminadoras",
+        "link": "https://www.google.com/maps/place/EN+FORMA+TIENDA+DEPORTIVA+-+Equipos+Deportivos+Tulua+-+Crossfit+-+Fitness+-+Maquinas+de+Musculaci%C3%B3n+-+Patines+-+Caminadoras/data=!4m7!3m6!1s0x8e39c5c734d6f041:0x523dd28eed4edc73!8m2!3d4.086563!4d-76.1999016!16s%2Fg%2F11dymcv4g3!19sChIJQfDWNMfFOY4Rc9xO7Y7SPVI?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Naturista Raiz-Tienda Naturista Tulua-Productos Naturales Tulua-Raiz Farmacia Natural Tulua-Drogueria Naturista Tulua-Consultas Medicas Tulua-Medico Naturista Tulua-Medicamentos Naturista Tulua-Medico Homeopático Tulua-Homeopata Tulua",
+        "link": "https://www.google.com/maps/place/Tienda+Naturista+Raiz-Tienda+Naturista+Tulua-Productos+Naturales+Tulua-Raiz+Farmacia+Natural+Tulua-Drogueria+Naturista+Tulua-Consultas+Medicas+Tulua-Medico+Naturista+Tulua-Medicamentos+Naturista+Tulua-Medico+Homeop%C3%A1tico+Tulua-Homeopata+Tulua/data=!4m7!3m6!1s0x8e39c5c13704f77d:0xf5b3862641892a88!8m2!3d4.0871222!4d-76.1974582!16s%2Fg%2F11cn3pjx_v!19sChIJffcEN8HFOY4RiCqJQSaGs_U?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda del Aseo",
+        "link": "https://www.google.com/maps/place/Tienda+del+Aseo/data=!4m7!3m6!1s0x8e39c5bc3519b2d9:0xde28ba75e0752c91!8m2!3d4.0892209!4d-76.2086576!16s%2Fg%2F11c6c8r385!19sChIJ2bIZNbzFOY4RkSx14HW6KN4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Nakama Tienda",
+        "link": "https://www.google.com/maps/place/Nakama+Tienda/data=!4m7!3m6!1s0x8e39c565366bf229:0xd5608d58a6706d13!8m2!3d4.0889342!4d-76.187096!16s%2Fg%2F11trv93ydj!19sChIJKfJrNmXFOY4RE21wpliNYNU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Nene AMH",
+        "link": "https://www.google.com/maps/place/Tienda+Nene+AMH/data=!4m7!3m6!1s0x8e39c5d33eccd737:0xabf7780ad0ed3e5d!8m2!3d4.1006143!4d-76.2145961!16s%2Fg%2F11rtq8h0ft!19sChIJN9fMPtPFOY4RXT7t0Ap496s?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Gerald",
+        "link": "https://www.google.com/maps/place/Tienda+Gerald/data=!4m7!3m6!1s0x8e39c5c9019f0475:0xfaa96432ed7cd18e!8m2!3d4.1010624!4d-76.2023118!16s%2Fg%2F11j8h9l_hb!19sChIJdQSfAcnFOY4RjtF87TJkqfo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda de Instrumentos Musicales en Tulua - Bucheli",
+        "link": "https://www.google.com/maps/place/Tienda+de+Instrumentos+Musicales+en+Tulua+-+Bucheli/data=!4m7!3m6!1s0x8e39c52f6841779d:0x902c7288a08a1d59!8m2!3d4.0863625!4d-76.1991016!16s%2Fg%2F11h41ysrlx!19sChIJnXdBaC_FOY4RWR2KoIhyLJA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda De Ropa Punto Aparte",
+        "link": "https://www.google.com/maps/place/Tienda+De+Ropa+Punto+Aparte/data=!4m7!3m6!1s0x8e39c5bdf87ed003:0x7aab4977dcdfacfc!8m2!3d4.0917367!4d-76.2079452!16s%2Fg%2F11f15f2q3v!19sChIJA9B--L3FOY4R_Kzf3HdJq3o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda alexa",
+        "link": "https://www.google.com/maps/place/Tienda+alexa/data=!4m7!3m6!1s0x8e39c50029db1b7f:0xb0520799878d31a1!8m2!3d4.0960419!4d-76.2142992!16s%2Fg%2F11yc89b3qg!19sChIJfxvbKQDFOY4RoTGNh5kHUrA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Dios nos ama",
+        "link": "https://www.google.com/maps/place/Tienda+Dios+nos+ama/data=!4m7!3m6!1s0x8e39c5dd5b78d777:0xf805bee31a1f1c90!8m2!3d4.0911843!4d-76.1984461!16s%2Fg%2F11smgxx900!19sChIJd9d4W93FOY4RkBwfGuO-Bfg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda haruki Tulua-Jean dama Tulua-Jean caballero Tulua-Blusas Tulua- Conjuntos Tulua-Vestidos Tulua-Camisas Tulua-Camisetas",
+        "link": "https://www.google.com/maps/place/Tienda+haruki+Tulua-Jean+dama+Tulua-Jean+caballero+Tulua-Blusas+Tulua-+Conjuntos+Tulua-Vestidos+Tulua-Camisas+Tulua-Camisetas/data=!4m7!3m6!1s0x8e39c5c6fd8b1287:0xcdce79fbf22a70d3!8m2!3d4.0846631!4d-76.1986041!16s%2Fg%2F11ggbmvttc!19sChIJhxKL_cbFOY4R03Aq8vt5zs0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda de zapatillas",
+        "link": "https://www.google.com/maps/place/Tienda+de+zapatillas/data=!4m7!3m6!1s0x8e39c59bdaedc8cd:0x38337b9b9daa3f49!8m2!3d4.0730385!4d-76.1996407!16s%2Fg%2F11fk134_r_!19sChIJzcjt2pvFOY4RST-qnZt7Mzg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA NATURISTA GREEN CENTER - Tiendas Naturistas - Productos Naturales - Medicina Natural - Tratamientos Naturales",
+        "link": "https://www.google.com/maps/place/TIENDA+NATURISTA+GREEN+CENTER+-+Tiendas+Naturistas+-+Productos+Naturales+-+Medicina+Natural+-+Tratamientos+Naturales/data=!4m7!3m6!1s0x8e39c5c7739fde2b:0xfb832f8a1b1fefe5!8m2!3d4.0852984!4d-76.1982246!16s%2Fg%2F11gg710q4q!19sChIJK96fc8fFOY4R5e8fG4ovg_s?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "tiendas vip",
+        "link": "https://www.google.com/maps/place/tiendas+vip/data=!4m7!3m6!1s0x8e39c527e96d4f99:0x9d1f810c21db38dd!8m2!3d4.081743!4d-76.1975728!16s%2Fg%2F11stjph6g9!19sChIJmU9t6SfFOY4R3TjbIQyBH50?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda",
+        "link": "https://www.google.com/maps/place/Tienda/data=!4m7!3m6!1s0x8e39c5fcc61e7079:0x1741c4e506e08720!8m2!3d4.0809718!4d-76.2040661!16s%2Fg%2F11t79gfygh!19sChIJeXAexvzFOY4RIIfgBuXEQRc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA D1 TULUA CRA 30",
+        "link": "https://www.google.com/maps/place/TIENDA+D1+TULUA+CRA+30/data=!4m7!3m6!1s0x8e39c500092685bb:0x7305c6c0838d8bc7!8m2!3d4.0902459!4d-76.191195!16s%2Fg%2F11wy28yq4y!19sChIJu4UmCQDFOY4Rx4uNg8DGBXM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda La Banderita",
+        "link": "https://www.google.com/maps/place/Tienda+La+Banderita/data=!4m7!3m6!1s0x8e39c5be53a2226d:0x6c947c55dc0aafff!8m2!3d4.0895921!4d-76.2047928!16s%2Fg%2F11g6qmftd8!19sChIJbSKiU77FOY4R_68K3FV8lGw?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA UNO A ECONOMÍCA",
+        "link": "https://www.google.com/maps/place/TIENDA+UNO+A+ECONOM%C3%8DCA/data=!4m7!3m6!1s0x8e39c50029705115:0xa9186132c8996bf7!8m2!3d4.0709648!4d-76.2007985!16s%2Fg%2F11ygy1j9bk!19sChIJFVFwKQDFOY4R92uZyDJhGKk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Maracuyá Tienda de Ropa | Moda | Ropa Juvenil | Tendencia | Accesorios | Tuluá",
+        "link": "https://www.google.com/maps/place/Maracuy%C3%A1+Tienda+de+Ropa+%7C+Moda+%7C+Ropa+Juvenil+%7C+Tendencia+%7C+Accesorios+%7C+Tulu%C3%A1/data=!4m7!3m6!1s0x8e39c576b5e419bf:0x57bd7ec964ca9e6c!8m2!3d4.0825477!4d-76.1976996!16s%2Fg%2F11ft3s3_k9!19sChIJvxnktXbFOY4RbJ7KZMl-vVc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda La Economía Las Americas",
+        "link": "https://www.google.com/maps/place/Tienda+La+Econom%C3%ADa+Las+Americas/data=!4m7!3m6!1s0x8e39c597b8e41e35:0x4b3c2962b15f96ce!8m2!3d4.0932327!4d-76.2112215!16s%2Fg%2F11cn2mhtj_!19sChIJNR7kuJfFOY4RzpZfsWIpPEs?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "La tienda de Laura",
+        "link": "https://www.google.com/maps/place/La+tienda+de+Laura/data=!4m7!3m6!1s0x8e39c549131ba255:0x4a47fe198d0da4ed!8m2!3d4.090717!4d-76.2177039!16s%2Fg%2F11t19xsq42!19sChIJVaIbE0nFOY4R7aQNjRn-R0o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Yudimi",
+        "link": "https://www.google.com/maps/place/Tienda+Yudimi/data=!4m7!3m6!1s0x8e39c5b744db1695:0x5d4842b44de9fa8e!8m2!3d4.0812125!4d-76.2062344!16s%2Fg%2F11g215nctq!19sChIJlRbbRLfFOY4RjvrpTbRCSF0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Edilma La 37",
+        "link": "https://www.google.com/maps/place/Tienda+Edilma+La+37/data=!4m7!3m6!1s0x8e39c5b73799722b:0x25a1890f7dfce7a7!8m2!3d4.0804356!4d-76.2067003!16s%2Fg%2F11fps45c1f!19sChIJK3KZN7fFOY4Rp-f8fQ-JoSU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Time",
+        "link": "https://www.google.com/maps/place/Tienda+Time/data=!4m7!3m6!1s0x8e39c52b26ca3259:0xc4a98d8004c82b75!8m2!3d4.0821386!4d-76.19832!16s%2Fg%2F11sp4ttjg1!19sChIJWTLKJivFOY4RdSvIBICNqcQ?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Lapislázuly",
+        "link": "https://www.google.com/maps/place/Tienda+Lapisl%C3%A1zuly/data=!4m7!3m6!1s0x8e39c5c6cf581081:0x38134095bdc549f3!8m2!3d4.0831124!4d-76.197256!16s%2Fg%2F11dx9gzzbd!19sChIJgRBYz8bFOY4R80nFvZVAEzg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Mas Urbano Tulua",
+        "link": "https://www.google.com/maps/place/Tienda+Mas+Urbano+Tulua/data=!4m7!3m6!1s0x8e39c5ea3c2e4cfd:0x29c2649b0d7d50a8!8m2!3d4.0825585!4d-76.1977019!16s%2Fg%2F11jlk0lg5t!19sChIJ_UwuPOrFOY4RqFB9DZtkwik?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Gomvi Sara",
+        "link": "https://www.google.com/maps/place/Tienda+Gomvi+Sara/data=!4m7!3m6!1s0x8e39c547663cfa0d:0x1cbdb11d9acba0c4!8m2!3d4.084455!4d-76.1976964!16s%2Fg%2F11fct12h3j!19sChIJDfo8ZkfFOY4RxKDLmh2xvRw?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA NATURISTA RINCON NATURAL - Tiendas Naturistas - Productos Naturales - Medicina Natural - Tratamientos Naturales",
+        "link": "https://www.google.com/maps/place/TIENDA+NATURISTA+RINCON+NATURAL+-+Tiendas+Naturistas+-+Productos+Naturales+-+Medicina+Natural+-+Tratamientos+Naturales/data=!4m7!3m6!1s0x8e39c5c6925845d5:0x4daa4a7d00e4a297!8m2!3d4.0847686!4d-76.1969574!16s%2Fg%2F11ddx5y93m!19sChIJ1UVYksbFOY4Rl6LkAH1Kqk0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA NATURISTA NATURAL DO TERRA - Tiendas Naturistas - Productos Naturales - Vitaminas - Suplementos - Proteínas - Fibras",
+        "link": "https://www.google.com/maps/place/TIENDA+NATURISTA+NATURAL+DO+TERRA+-+Tiendas+Naturistas+-+Productos+Naturales+-+Vitaminas+-+Suplementos+-+Prote%C3%ADnas+-+Fibras/data=!4m7!3m6!1s0x8e39c57d8ce584a9:0xbaa95346fef45f87!8m2!3d4.0863792!4d-76.1987015!16s%2Fg%2F11h3jtjnfg!19sChIJqYTljH3FOY4Rh1_0_kZTqbo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Mi abuela tienda tipica",
+        "link": "https://www.google.com/maps/place/Mi+abuela+tienda+tipica/data=!4m7!3m6!1s0x8e39c53ba932cc0b:0x79521fedc5e64228!8m2!3d4.0844789!4d-76.1998356!16s%2Fg%2F11wj5x9t6j!19sChIJC8wyqTvFOY4RKELmxe0fUnk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Gomelas Tienda De Ropa",
+        "link": "https://www.google.com/maps/place/Gomelas+Tienda+De+Ropa/data=!4m7!3m6!1s0x8e39c5c6230abc71:0x10e7f506dcce5a9a!8m2!3d4.0721036!4d-76.2013363!16s%2Fg%2F11nnv_rl1m!19sChIJcbwKI8bFOY4RmlrO3Ab15xA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda los monos",
+        "link": "https://www.google.com/maps/place/Tienda+los+monos/data=!4m7!3m6!1s0x8e39c5df08a0c6f1:0x413eda814d40263f!8m2!3d4.0829242!4d-76.1887224!16s%2Fg%2F11f6g195ps!19sChIJ8cagCN_FOY4RPyZATYHaPkE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda aqui es chucho",
+        "link": "https://www.google.com/maps/place/Tienda+aqui+es+chucho/data=!4m7!3m6!1s0x8e39c5bc7e01f5e1:0xa2d39e34b1890a8d!8m2!3d4.0952914!4d-76.2139004!16s%2Fg%2F11y03pfgjy!19sChIJ4fUBfrzFOY4RjQqJsTSe06I?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda. JM",
+        "link": "https://www.google.com/maps/place/Tienda.+JM/data=!4m7!3m6!1s0x8e39c5003e94dd17:0x7a0228012a42f258!8m2!3d4.0971967!4d-76.2097342!16s%2Fg%2F11m6_r9dzc!19sChIJF92UPgDFOY4RWPJCKgEoAno?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Virtual J&O",
+        "link": "https://www.google.com/maps/place/Tienda+Virtual+J%26O/data=!4m7!3m6!1s0x8e39c5c400fba759:0x8b7952a4a99f42db!8m2!3d4.0949157!4d-76.2030307!16s%2Fg%2F11g0mtf8_z!19sChIJWaf7AMTFOY4R20KfqaRSeYs?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "WOM Tienda Tuluá Centro",
+        "link": "https://www.google.com/maps/place/WOM+Tienda+Tulu%C3%A1+Centro/data=!4m7!3m6!1s0x8e39c502c8480a77:0x56947068aed428d!8m2!3d4.0818666!4d-76.1975498!16s%2Fg%2F11rr0yf926!19sChIJdwpIyALFOY4RjULtigZHaQU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Mi tienda online Natura",
+        "link": "https://www.google.com/maps/place/Mi+tienda+online+Natura/data=!4m7!3m6!1s0x8e39c5e14b8bd239:0xeea28df6790433a1!8m2!3d4.0890959!4d-76.2083403!16s%2Fg%2F11sz32j7ln!19sChIJOdKLS-HFOY4RoTMEefaNou4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda salomr",
+        "link": "https://www.google.com/maps/place/Tienda+salomr/data=!4m7!3m6!1s0x8e39c500113183f7:0x3e6e413481340a85!8m2!3d4.0950709!4d-76.1984243!16s%2Fg%2F11x8cv4v44!19sChIJ94MxEQDFOY4RhQo0gTRBbj4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA NATURISTA J.E Bienestar y Salud - Tiendas Naturistas - Productos Naturales - Vitaminas - Suplementos - Proteinas",
+        "link": "https://www.google.com/maps/place/TIENDA+NATURISTA+J.E+Bienestar+y+Salud+-+Tiendas+Naturistas+-+Productos+Naturales+-+Vitaminas+-+Suplementos+-+Proteinas/data=!4m7!3m6!1s0x8e39c5c79e4a16a5:0xcdb903298a42604d!8m2!3d4.0838884!4d-76.2003017!16s%2Fg%2F11c6vlt5x5!19sChIJpRZKnsfFOY4RTWBCiikDuc0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda VIP SHOES",
+        "link": "https://www.google.com/maps/place/Tienda+VIP+SHOES/data=!4m7!3m6!1s0x8e39c53920a1bb1f:0x9e6fe6e8f4f8d44!8m2!3d4.0833605!4d-76.1987275!16s%2Fg%2F11vf2vd9cy!19sChIJH7uhIDnFOY4RRI1Pj27-5gk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Virtual Gorditas Sexys y Esbeltas",
+        "link": "https://www.google.com/maps/place/Tienda+Virtual+Gorditas+Sexys+y+Esbeltas/data=!4m7!3m6!1s0x8e39c5a3cd91b5ef:0x74e89c03875afbaa!8m2!3d4.0873609!4d-76.2006744!16s%2Fg%2F11c75rj0pc!19sChIJ77WRzaPFOY4RqvtahwOc6HQ?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda la esquina",
+        "link": "https://www.google.com/maps/place/Tienda+la+esquina/data=!4m7!3m6!1s0x8e39c5004ffba7b9:0xf5d3b827c362fc15!8m2!3d4.0939154!4d-76.2154053!16s%2Fg%2F11x61d1lyz!19sChIJuaf7TwDFOY4RFfxiwye40_U?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda los Alpes",
+        "link": "https://www.google.com/maps/place/Tienda+los+Alpes/data=!4m7!3m6!1s0x8e39c5000fbc557d:0x6cd03a1ee742c11c!8m2!3d4.0938878!4d-76.1975163!16s%2Fg%2F11x8hg9rp_!19sChIJfVW8DwDFOY4RHMFC5x460Gw?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "CUBIX tienda Tecnologica",
+        "link": "https://www.google.com/maps/place/CUBIX+tienda+Tecnologica/data=!4m7!3m6!1s0x8e39c5c70ff52995:0xadf1b75a0abb30ff!8m2!3d4.0847657!4d-76.199375!16s%2Fg%2F11c6m10xbv!19sChIJlSn1D8fFOY4R_zC7Clq38a0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA NATURISTA VIDA NATURAL - Productos Naturales - Suplementos - Fitoterapéuticos - Suplementos Dietarios - Vitaminas",
+        "link": "https://www.google.com/maps/place/TIENDA+NATURISTA+VIDA+NATURAL+-+Productos+Naturales+-+Suplementos+-+Fitoterap%C3%A9uticos+-+Suplementos+Dietarios+-+Vitaminas/data=!4m7!3m6!1s0x8e39c55af610cde7:0x7a04e1e35dea1143!8m2!3d4.0866928!4d-76.1996842!16s%2Fg%2F11t9jr0r3r!19sChIJ580Q9lrFOY4RQxHqXePhBHo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA NATURISTA MUNDO VERDE - Productos Naturales - Medicina Biológica - Proteínas - Suplementos - Vitaminas",
+        "link": "https://www.google.com/maps/place/TIENDA+NATURISTA+MUNDO+VERDE+-+Productos+Naturales+-+Medicina+Biol%C3%B3gica+-+Prote%C3%ADnas+-+Suplementos+-+Vitaminas/data=!4m7!3m6!1s0x8e39c5c6d5c8780d:0x673588eb249fd9d4!8m2!3d4.0863731!4d-76.1987077!16s%2Fg%2F11c6vkg8w_!19sChIJDXjI1cbFOY4R1NmfJOuINWc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "MARANT TIENDA DE BELLEZA - Productos de Belleza - Productos Capilares - Productos Faciales - Productos Corporal - Cosméticos",
+        "link": "https://www.google.com/maps/place/MARANT+TIENDA+DE+BELLEZA+-+Productos+de+Belleza+-+Productos+Capilares+-+Productos+Faciales+-+Productos+Corporal+-+Cosm%C3%A9ticos/data=!4m7!3m6!1s0x8e39c5c0ee309d61:0x8701d7a934ae452f!8m2!3d4.088425!4d-76.1996644!16s%2Fg%2F11gh04dbv6!19sChIJYZ0w7sDFOY4RL0WuNKnXAYc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda la bendición",
+        "link": "https://www.google.com/maps/place/Tienda+la+bendici%C3%B3n/data=!4m7!3m6!1s0x8e39c5006247afed:0x637cd64acb3bea46!8m2!3d4.0986031!4d-76.2046431!16s%2Fg%2F11yvgfdjv1!19sChIJ7a9HYgDFOY4RRuo7y0rWfGM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Mis Mascotas CAN Y CAT",
+        "link": "https://www.google.com/maps/place/Tienda+Mis+Mascotas+CAN+Y+CAT/data=!4m7!3m6!1s0x8e39c52261fc952d:0xf64720894456f891!8m2!3d4.0755758!4d-76.1986943!16s%2Fg%2F11h77qgmcp!19sChIJLZX8YSLFOY4RkfhWRIkgR_Y?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "RC Tienda",
+        "link": "https://www.google.com/maps/place/RC+Tienda/data=!4m7!3m6!1s0x8e39c50073b31f95:0xbab7aeb815155504!8m2!3d4.081612!4d-76.1927344!16s%2Fg%2F11lv50x2lx!19sChIJlR-zcwDFOY4RBFUVFbiut7o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda y vari. la colo",
+        "link": "https://www.google.com/maps/place/Tienda+y+vari.+la+colo/data=!4m7!3m6!1s0x8e39c5c196b3c5a7:0x383148be6fa2a52d!8m2!3d4.0882299!4d-76.2137612!16s%2Fg%2F11tjz_ftc0!19sChIJp8WzlsHFOY4RLaWib75IMTg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA DE ROPA KIBO JEANS",
+        "link": "https://www.google.com/maps/place/TIENDA+DE+ROPA+KIBO+JEANS/data=!4m7!3m6!1s0x8e39c57eefdb7d63:0x4714f275552056b5!8m2!3d4.090982!4d-76.1857054!16s%2Fg%2F11h_6r7p1q!19sChIJY33b737FOY4RtVYgVXXyFEc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Encanto",
+        "link": "https://www.google.com/maps/place/Tienda+Encanto/data=!4m7!3m6!1s0x8e39c5f09928c811:0xce529588cb47761b!8m2!3d4.082709!4d-76.190237!16s%2Fg%2F11l349rlkm!19sChIJEcgomfDFOY4RG3ZHy4iVUs4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Salomón",
+        "link": "https://www.google.com/maps/place/Tienda+Salom%C3%B3n/data=!4m7!3m6!1s0x8e39c5beb3f47867:0x588e0f36b7ab744c!8m2!3d4.0931833!4d-76.2165589!16s%2Fg%2F11rxww8vl_!19sChIJZ3j0s77FOY4RTHSrtzYPjlg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "ZONA PLAY LA 28 TULUA - Juegos Digitales - Videojuegos - Consolas - Cabinas - Controles de Videojuegos",
+        "link": "https://www.google.com/maps/place/ZONA+PLAY+LA+28+TULUA+-+Juegos+Digitales+-+Videojuegos+-+Consolas+-+Cabinas+-+Controles+de+Videojuegos/data=!4m7!3m6!1s0x8e39c5c652b934eb:0x30d161b919418184!8m2!3d4.0835643!4d-76.198661!16s%2Fg%2F11g6q_d925!19sChIJ6zS5UsbFOY4RhIFBGblh0TA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Bastion tienda",
+        "link": "https://www.google.com/maps/place/Bastion+tienda/data=!4m7!3m6!1s0x8e39c54ed721ab39:0xc1ac7ab715085197!8m2!3d4.0835832!4d-76.202994!16s%2Fg%2F11lgzqjh2p!19sChIJOash107FOY4Rl1EIFbd6rME?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda la esquina de Stefania",
+        "link": "https://www.google.com/maps/place/Tienda+la+esquina+de+Stefania/data=!4m7!3m6!1s0x8e39c539877bfa67:0x5a9241b63a294c7!8m2!3d4.101728!4d-76.1933056!16s%2Fg%2F11tx7yl836!19sChIJZ_p7hznFOY4Rx5SiYxskqQU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda de Ropa Original BrandStore",
+        "link": "https://www.google.com/maps/place/Tienda+de+Ropa+Original+BrandStore/data=!4m7!3m6!1s0x8e39c5a014aa44f7:0xc353c397663620ad!8m2!3d4.0810925!4d-76.2036736!16s%2Fg%2F11xfs7g2xr!19sChIJ90SqFKDFOY4RrSA2ZpfDU8M?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "TIENDA PRADOS LA SEPTIMA",
+        "link": "https://www.google.com/maps/place/TIENDA+PRADOS+LA+SEPTIMA/data=!4m7!3m6!1s0x8e39c50033375005:0xa00d733e2fa3c340!8m2!3d4.095607!4d-76.209257!16s%2Fg%2F11x8hkgdmc!19sChIJBVA3MwDFOY4RQMOjLz5zDaA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Metamorfica tienda de belleza",
+        "link": "https://www.google.com/maps/place/Metamorfica+tienda+de+belleza/data=!4m7!3m6!1s0x8e39c5dff2f3a133:0x4e8ea13b7e278c73!8m2!3d4.0991905!4d-76.204929!16s%2Fg%2F11v0mrbjr8!19sChIJM6Hz8t_FOY4Rc4wnfjuhjk4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda iris",
+        "link": "https://www.google.com/maps/place/Tienda+iris/data=!4m7!3m6!1s0x8e39c5007f781fe5:0x9c610798e42e1f0c!8m2!3d4.0947883!4d-76.1996792!16s%2Fg%2F11mc9m7p02!19sChIJ5R94fwDFOY4RDB8u5JgHYZw?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Elite Deportes-Tienda deportiva tulua-Natacion-Ciclismo-Futbol-Patinaje-Pesca tulua-Baloncesto tulua-Volleyball tulua",
+        "link": "https://www.google.com/maps/place/Elite+Deportes-Tienda+deportiva+tulua-Natacion-Ciclismo-Futbol-Patinaje-Pesca+tulua-Baloncesto+tulua-Volleyball+tulua/data=!4m7!3m6!1s0x8e39c5c73c1cf921:0x1d395323a54051bb!8m2!3d4.0857552!4d-76.1997289!16s%2Fg%2F11gdhfbf_8!19sChIJIfkcPMfFOY4Ru1FApSNTOR0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda El Triunfo",
+        "link": "https://www.google.com/maps/place/Tienda+El+Triunfo/data=!4m7!3m6!1s0x8e39c5ecb48b896d:0xc05f07399d3a866e!8m2!3d4.09766!4d-76.201414!16s%2Fg%2F11gk6zd19f!19sChIJbYmLtOzFOY4RboY6nTkHX8A?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda de arte Luna celeste",
+        "link": "https://www.google.com/maps/place/Tienda+de+arte+Luna+celeste/data=!4m7!3m6!1s0x8e39c5541e024c57:0xd47ff03cfc2b6330!8m2!3d4.0797421!4d-76.1919424!16s%2Fg%2F11sb5ymm4w!19sChIJV0wCHlTFOY4RMGMr_Dzwf9Q?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda la mejor vida",
+        "link": "https://www.google.com/maps/place/Tienda+la+mejor+vida/data=!4m7!3m6!1s0x8e39c5002248a3cb:0x30cd1fc562199b07!8m2!3d4.0939373!4d-76.2132633!16s%2Fg%2F11x618p0vh!19sChIJy6NIIgDFOY4RB5sZYsUfzTA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Arte Y Cultura",
+        "link": "https://www.google.com/maps/place/Tienda+Arte+Y+Cultura/data=!4m7!3m6!1s0x8e39c5c12b358875:0x8eec929858c1412b!8m2!3d4.0866439!4d-76.1984619!16s%2Fg%2F11rgh7dtjx!19sChIJdYg1K8HFOY4RK0HBWJiS7I4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda ramirez",
+        "link": "https://www.google.com/maps/place/Tienda+ramirez/data=!4m7!3m6!1s0x8e39c5005517c5e9:0xfad4fa990c3fa8e9!8m2!3d4.0943213!4d-76.213996!16s%2Fg%2F11x618hxp7!19sChIJ6cUXVQDFOY4R6ag_DJn61Po?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Cambio Systems",
+        "link": "https://www.google.com/maps/place/Cambio+Systems/data=!4m7!3m6!1s0x8e39c5c62689f249:0x30ed63910c9cb104!8m2!3d4.0814258!4d-76.1974926!16s%2Fg%2F11c6w1_p3s!19sChIJSfKJJsbFOY4RBLGcDJFj7TA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda la estacion",
+        "link": "https://www.google.com/maps/place/Tienda+la+estacion/data=!4m7!3m6!1s0x8e39c5001cc63f13:0x67db53273de7abb3!8m2!3d4.0884754!4d-76.2038102!16s%2Fg%2F11x64xjtz5!19sChIJEz_GHADFOY4Rs6vnPSdT22c?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda La Ecuatoriana",
+        "link": "https://www.google.com/maps/place/Tienda+La+Ecuatoriana/data=!4m7!3m6!1s0x8e39c584021403bf:0x92a7fd3d408159d!8m2!3d4.1030291!4d-76.1928986!16s%2Fg%2F11fhnk797d!19sChIJvwMUAoTFOY4RnRUI1NN_Kgk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Francia",
+        "link": "https://www.google.com/maps/place/Tienda+Francia/data=!4m7!3m6!1s0x8e39c50043ce0149:0x1b3ffe9a15e81733!8m2!3d4.097256!4d-76.2139781!16s%2Fg%2F11vjrrtt9d!19sChIJSQHOQwDFOY4RMxfoFZr-Pxs?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Samadhi Tienda Virtual",
+        "link": "https://www.google.com/maps/place/Samadhi+Tienda+Virtual/data=!4m7!3m6!1s0x8e39c5db15f7552f:0x3fc1a502a0f4b758!8m2!3d4.0744535!4d-76.204604!16s%2Fg%2F11nnztgt2m!19sChIJL1X3FdvFOY4RWLf0oAKlwT8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "EL CABALLISTA TULUA - Tienda de Aperos - Accesorios Equinos - Aperos de Caballos - Sombreros - Suplementos Equinos - Ponchos",
+        "link": "https://www.google.com/maps/place/EL+CABALLISTA+TULUA+-+Tienda+de+Aperos+-+Accesorios+Equinos+-+Aperos+de+Caballos+-+Sombreros+-+Suplementos+Equinos+-+Ponchos/data=!4m7!3m6!1s0x8e39c5c45681cb21:0x93bdd4c4d044a2!8m2!3d4.0846247!4d-76.1931493!16s%2Fg%2F11c5zzqdq0!19sChIJIcuBVsTFOY4RokTQxNS9kwA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Paradise Tulua sex shop",
+        "link": "https://www.google.com/maps/place/Paradise+Tulua+sex+shop/data=!4m7!3m6!1s0x8e39c50719960b83:0xb592fcf8d4a6079!8m2!3d4.071184!4d-76.1988746!16s%2Fg%2F11jtxmgff6!19sChIJgwuWGQfFOY4ReWBKjc8vWQs?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "SÚPER TIENDA CELLYTA",
+        "link": "https://www.google.com/maps/place/S%C3%9APER+TIENDA+CELLYTA/data=!4m7!3m6!1s0x8e39c5643eb90a33:0x23e2567bd7789e1!8m2!3d4.0972323!4d-76.2149109!16s%2Fg%2F11kr_z2sjg!19sChIJMwq5PmTFOY4R4Yl3vWclPgI?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "nombre": "Tienda Naturista Vida Real",
+        "link": "https://www.google.com/maps/place/Tienda+Naturista+Vida+Real/data=!4m7!3m6!1s0x8e39c5dab8bbc523:0xd419f800b024c41f!8m2!3d4.0826867!4d-76.1889468!16s%2Fg%2F11c1rszgvz!19sChIJI8W7uNrFOY4RH8QksAD4GdQ?authuser=0&hl=es-419&rclk=1"
+    }
+]

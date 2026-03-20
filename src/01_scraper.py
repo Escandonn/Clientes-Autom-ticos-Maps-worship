@@ -1,6 +1,6 @@
-from seleniumbase import SB
 import json
 import time
+import os
 
 URL = "https://www.google.com/maps/search/tiendas/@4.0844249,-76.1983878,3513m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D"
 
@@ -74,7 +74,8 @@ with SB(uc=True, headless=False) as sb:
     resultados_json = sb.execute_script(script_extract)
     
     # Guardar a archivo JSON
-    nombre_archivo = "tiendas_links.json"
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    nombre_archivo = os.path.join(BASE_DIR, "data", "02_interim", "tiendas_links.json")
     with open(nombre_archivo, "w", encoding="utf-8") as f:
         json.dump(resultados_json, f, ensure_ascii=False, indent=4)
         
