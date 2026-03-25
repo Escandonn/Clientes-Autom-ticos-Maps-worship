@@ -56,17 +56,17 @@ sequenceDiagram
     
     U->>S1: Ejecuta Etapa 1
     Note over S1: Emulación humana con SeleniumBase
-    S1->>S1: Abre Google Maps
-    S1->>S1: Scroll progresivo automatizado
-    S1->>DB1: Guarda tiendas_links.json
+    S1->>S1: Itera sobre lista de Nichos
+    S1->>S1: Abre Google Maps y Scroll progresivo
+    S1->>DB1: Guarda {nicho}_links.json
     
     U->>S2: Ejecuta Etapa 2
     Note over S2: Multitarea asíncrona con Playwright
-    S2->>DB1: Lee tiendas_links.json
+    S2->>DB1: Descubre y lee todos los *_links.json
     S2->>S2: Lanza Contexto (Max 10 pestañas paralelas)
     S2->>S2: Espera carga JS e inyección de .Io6YTe y .CsEnBe
     S2->>S2: Extrae Teléfono, Dirección, Sitio Web, IG, WA
-    S2->>DB2: Escribe tiendas_enriquecidas.json
+    S2->>DB2: Escribe {nicho}_enriquecidas.json
     DB2-->>U: ¡Clientes potenciales listos para venta!
 ```
 
@@ -128,13 +128,13 @@ playwright install chromium
 ## 🚀 Guía de Uso Rápido
 
 ### Etapa 1 (Minería de Enlaces)
-Se encarga de engañar a Google para descubrir de forma rápida y legal todos los locales que aparezcan en un área seleccionada. Los resultados se guardan en la carpeta temporal de datos intermedios.
+Se encarga de engañar a Google para descubrir de forma rápida y legal todos los locales que aparezcan en un área seleccionada, iterando automáticamente sobre una lista de nichos (tiendas, restaurantes, farmacias, etc.). **Implementa Checkpointing (Reanudación automática)**, por lo que si el código se interrumpe, retomará inteligentemente desde el progreso actual saltándose archivos existentes. Los resultados se guardan en la carpeta temporal de datos intermedios como archivos separados por nicho.
 ```bash
 python src/01_scraper.py
 ```
 
 ### Etapa 2 (Enriquecimiento Simultáneo)
-Toma en paralelo 10 URLs por lote desde los datos intermedios y, en lugar de usar requests simples que fallan o navegadores pesados, usa contextos fantasma súper-rápidos que permiten extraer contactos ocultos por JavaScript. Los consolida en un solo JSON puro.
+Procesa automáticamente todos los archivos JSON de nichos generados en la etapa anterior. Toma en paralelo 10 URLs por lote desde los datos intermedios y usa contextos fantasma súper-rápidos que permiten extraer contactos ocultos por JavaScript. **Integra Lógica de Reintentos (Retry Automático)** que intenta abrir el local hasta 3 veces si detecta bloqueos de red, generando registros de depuración precisos (`alertas_fallos.json`) con las tiendas imposibles de acceder. Los contactos exitosos se consolidan en archivos JSON separados por nicho listos para su uso.
 ```bash
 python src/02_extractor_pro.py
 ```
