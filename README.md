@@ -3,7 +3,7 @@
 ## 📖 Descripción del Proyecto
 Este ecosistema automatizado de extracción avanzada (Web Scraping) está diseñado para recolectar clientes potenciales de Google Maps. 
 
-El flujo está estructurado en un **Pipeline de dos etapas (Fase 2 de Arquitectura)** que combina técnicas de evasión de bloqueos con *SeleniumBase* en su primera mitad, y extracción ultrarrápida multihilo asíncrona con *Playwright* en su segunda mitad. Todo rediseñado bajo estándares profesionales separando lógica fuente (`src`), utilidades (`utils`), y almacenamiento progresivo de datos (`data`).
+El flujo está estructurado en un **Pipeline de tres etapas (Fase 3 de Arquitectura)** que combina técnicas robustas de raspado multinicho en todo el Valle del Cauca (42 Municipios), usando *SeleniumBase* en su primera mitad, extracción asíncrona con *Playwright* en su segunda mitad y una arquitectura orientada a objetos (POO) para la consolidación en *Excel* hoja por hoja en su etapa final.
 
 ---
 
@@ -18,25 +18,40 @@ graph TD
     A --> D(utils/)
     
     B --> B1(01_raw/)
-    subgraph Almacenamiento
+    subgraph Almacenamiento Estructurado
     B2(02_interim/)
     B3(03_processed/)
+    B4(04_exports/)
     end
     B --> B2
     B --> B3
+    B --> B4
     
-    subgraph Scripts Fuente
+    subgraph Scripts Fuente (Etapas 1 a 3)
     C1(01_scraper.py)
     C2(02_extractor_pro.py)
+    C3(03_excel_exporter.py)
     end
     C --> C1
     C --> C2
+    C --> C3
     
-    D --> D1(helpers.py)
+    subgraph Clases y Utils
+    D1(helpers.py)
+    D2(data_manager.py)
+    D3(municipios.py)
+    end
+    D --> D1
+    D --> D2
+    D --> D3
     
-    C1 -->|Crea JSON de links| B2
+    D2 -.->|Organiza I/O| C1
+    D2 -.->|Organiza I/O| C2
+    D2 -.->|Construye XLSX| C3
+    
+    C1 -->|Crea JSON de links Múltiples| B2
     C2 -->|Crea JSON final de contactos| B3
-    D1 -.->|Usa funcion| C2
+    C3 -->|Pestañas separadas por Municipio| B4
 ```
 
 ---
@@ -127,14 +142,20 @@ playwright install chromium
 
 ## 🚀 Guía de Uso Rápido
 
-### Etapa 1 (Minería de Enlaces)
-Se encarga de engañar a Google para descubrir de forma rápida y legal todos los locales que aparezcan en un área seleccionada, iterando automáticamente sobre una lista de nichos (tiendas, restaurantes, farmacias, etc.). **Implementa Checkpointing (Reanudación automática)**, por lo que si el código se interrumpe, retomará inteligentemente desde el progreso actual saltándose archivos existentes. Los resultados se guardan en la carpeta temporal de datos intermedios como archivos separados por nicho.
+### Etapa 1 (Minería de Enlaces Regional)
+Se encarga de engañar a Google iterando automáticamente de forma anidada sobre una lista de nichos en los **42 Municipios del Valle del Cauca**. **Implementa Checkpointing (Reanudación automática)** gracias a la clase OOP `DataManager`. Los resultados se estructuran dinámicamente en la carpeta `02_interim`.
 ```bash
 python src/01_scraper.py
 ```
 
 ### Etapa 2 (Enriquecimiento Simultáneo)
-Procesa automáticamente todos los archivos JSON de nichos generados en la etapa anterior. Toma en paralelo 10 URLs por lote desde los datos intermedios y usa contextos fantasma súper-rápidos que permiten extraer contactos ocultos por JavaScript. **Integra Lógica de Reintentos (Retry Automático)** que intenta abrir el local hasta 3 veces si detecta bloqueos de red, generando registros de depuración precisos (`alertas_fallos.json`) con las tiendas imposibles de acceder. Los contactos exitosos se consolidan en archivos JSON separados por nicho listos para su uso.
+Procesa automáticamente todos los JSON intermedios (`{nicho}_{municipio}_links.json`). Toma en paralelo 10 URLs usando contextos ligeros para extraer contactos ocultos por JavaScript. **Integra Lógica de Reintentos (Retry Automático)** hasta 3 veces ante fallos, estructurando todo en `03_processed`.
 ```bash
 python src/02_extractor_pro.py
+```
+
+### Etapa 3 (Exportación Comercial Excel)
+La joya de la corona del ecosistema orientado a objetos. Toma todos los JSON enriquecidos y, a través de `DataManager`, los consolida produciendo un (1) archivo central de Excel por nicho (Ej: `restaurantes_directorio.xlsx`), donde cada pestaña (hoja) representa de manera independiente a un municipio particular.
+```bash
+python src/03_excel_exporter.py
 ```

@@ -4,28 +4,29 @@ import re
 import time
 import os
 import sys
+import os
 
-# Agregar la raíz del proyecto al sys.path temporalmente para poder importar 'utils'
+# Agregar la raíz del proyecto al sys.path temporalmente
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if BASE_DIR not in sys.path:
     sys.path.append(BASE_DIR)
 
 from utils.helpers import limpiar_texto
+from utils.data_manager import DataManager
 
 try:
     from playwright.async_api import async_playwright
 except ImportError:
     print("❌ Falta la librería Playwright. Para funcionar requieres instalarla:")
-    print("   Abre la terminal y ejecuta estos dos comandos:")
     print("   pip install playwright")
     print("   playwright install chromium")
     exit(1)
 
-# Configuración
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DIR_ENTRADA = os.path.join(BASE_DIR, "data", "02_interim")
-DIR_SALIDA = os.path.join(BASE_DIR, "data", "03_processed")
-MAX_CONCURRENT_PAGES = 10  # Número de pestañas en paralelo (Multitarea asíncrona real)
+# Configuración impulsada por el DataManager POO
+manager = DataManager()
+DIR_ENTRADA = manager.interim_dir
+DIR_SALIDA = manager.processed_dir
+MAX_CONCURRENT_PAGES = 10  # Número de pestañas en paralelo
 
 async def procesar_tienda(context, tienda, sem, fallos_nicho):
     # El semáforo limita cuántas pestañas se abren al mismo tiempo para no colapsar la RAM
